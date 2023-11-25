@@ -210,14 +210,14 @@
     },
     {
         "title": "New Life Rule (NLR)",
-        "link": "#newliferule",
+        "link": "#nlr",
         "isSubtitle": false,
         "rules": [
             "NLR is when you have either been dumped or respawned (bled out) at Pillbox. You forget all prior knowledge of the events that led up to you going down.",
             "You must forget all events that led up to you going down.",
-            "If you do respawn, you are not to return to that situation for 120 minutes (2 hours). You are to sit out and recover, you are still to act as you have forgotten, but your friends can tell you what happened, and you may get involved again after 2 hours."
+            "If you do respawn, you are not to return to that situation for 120 minutes (2 hours). You are to sit out and recover, you are still to act as you have forgotten but your friends can tell you what happened and you may get involved again after 2 hours."
         ]
-    },
+    },    
     {
         "title": "Injuries and Getting Treatment Guidelines",
         "link": "#injuries_treatment",
