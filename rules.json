@@ -113,15 +113,6 @@
         ]
     },
     {
-        "title": "/ME",
-        "link": "#me",
-        "isSubtitle": false,
-        "rules": [
-            "/me should be used to enhance your roleplay for others. If it makes sense in roleplay it must be followed, try to be realistic with your /me.",
-            "/me is not to be used for 'taking' items such as guns or radios. These are things you need to physically take "
-        ]
-    },
-    {
         "title": "Metagaming",
         "link": "#metagaming",
         "isSubtitle": false,
@@ -154,6 +145,23 @@
             "You cannot force someone to go into their house/motel/garage to get anything for you."
         ]
     },
+    {
+        "title": "FailRP",
+        "link": "#failrp",
+        "isSubtitle": false,
+        "rules": [
+            "Everything you do in character should be realistic and probable, you must go along with the role play situation you have been dealt. Some examples of FailRP but not limited to:",
+            "Swimming/climbing ladders with handcuffs on.",
+            "Misuse of carrying.",
+            "Cop baiting/Gang Baiting (purposely attracting PD/Gangs attention).",
+            "Tackling/Ragdolling for no reason.",
+            "Leaving any situation before EMS have finished their treatment.",
+            "Removing a patient from the care of EMS before they have finished being treated.",
+            "Soundboards/music without using /boombox or in a car, it must make sense.",
+            "Using the musket against any civilian, no matter the situation.",
+            "Combat storing. Storing items or vehicles while you are in an active RP situation. Example of this but not limited to: Storing items or vehicles while escaping from the police."
+        ]
+    },    
     {
         "title": "Power Gaming",
         "link": "#powergaming",
@@ -328,7 +336,7 @@
         ]
     },
     {
-        "title": "Vehicle Usage",
+        "title": "Vehicles",
         "link": "#vehicles",
         "isSubtitle": false,
         "rules": [
@@ -344,7 +352,7 @@
         ]
     },
     {
-        "title": "Water Chase Guidelines",
+        "title": "Water Chases",
         "link": "#water_chases",
         "isSubtitle": false,
         "rules": [
@@ -353,7 +361,7 @@
         ]
     },
     {
-        "title": "Safe Use Policy",
+        "title": "Safes",
         "link": "#safes",
         "isSubtitle": false,
         "rules": [
@@ -363,7 +371,7 @@
         ]
     },
     {
-        "title": "Gang Related Activity/Organizations Rules",
+        "title": "Gang Related Activity/Organizations",
         "link": "#gang_activity",
         "isSubtitle": false,
         "rules": [
@@ -378,7 +386,7 @@
         ]
     },
     {
-        "title": "Takeover Rules",
+        "title": "Takeover",
         "link": "#takeovers",
         "isSubtitle": false,
         "rules": [
@@ -404,7 +412,7 @@
         ]
     },
     {
-        "title": "Wars/Gang Fights/Street Fights/Beef/Any Confrontation Rules",
+        "title": "Wars/Gang Fights/Street Fights/Beef/Any Confrontation",
         "link": "#confrontation_rules",
         "isSubtitle": false,
         "rules": [
@@ -415,7 +423,7 @@
         ]
     },
     {
-        "title": "Job Abuse Policy",
+        "title": "Job Abuse",
         "link": "#job_abuse",
         "isSubtitle": false,
         "rules": [
@@ -427,7 +435,7 @@
         ]
     },
     {
-        "title": "Player/Gang/Crew Properties and Raids Guidelines",
+        "title": "Player/Gang/Crew Properties and Raids",
         "link": "#properties_raids",
         "isSubtitle": false,
         "rules": [
@@ -438,7 +446,7 @@
         ]
     },
     {
-        "title": "Police Interaction Rules",
+        "title": "Police Interaction",
         "link": "#police_interaction",
         "isSubtitle": false,
         "rules": [
