@@ -1,24 +1,23 @@
 [
     {
-        "title": "General",
+        "title": "General Rules (these rules also apply to Discord and will not be tolerated",
         "link": "#general",
         "isSubtitle": false,
         "rules": [
-            "Staying updated on any rule modifications on our website or Discord is your responsibility",
-            "Playing content that is protected by copyright (DMCA) is strictly prohibited. This includes copyrighted movies, music, and other protected materials. It is essential to respect the rights of content creators and obtain appropriate permissions from the rights holders before performing covers or using copyrighted content. Let's ensure that we maintain a lawful and respectful environment by adhering to these guidelines.",
-            "Harassment, bullying, or targeting any member of the community is strictly prohibited.",
-            "Racism, sexism or any other form of discrimination is strictly prohibited.",
-            "Impersonating a member of the Phoenix staff team is strictly prohibited.",
-            "You must be 16+ to participate in the Phoenix community.",
-            "Do not share your character or account with anyone else, you are responsible for your character's actions."
+            "No discrimination of any kind to anyone (including but not limited to Racism, Disabilities and Sexual Orientation)",
+            "No harassing or bullying members of the community",
+            "No Staff / Developer Impersonation",
+            "You must be 16+ to play the server"
         ]
     },
     {
-        "title": "Names",
-        "link": "#names",
+        "title": "Character Rules",
+        "link": "#character",
         "isSubtitle": false,
         "rules": [
-            "Your character needs to have a somewhat realistic name, if staff don't think it is appropriate, they will ask you to change it via ticket"
+            "Names must be appropriate and realistic. Staff will change it if it is not suitable",
+            "You can play more than one character but you cannot have more than one character in the same gang.",
+            "Police will also take into consideration if you play multiple characters and how it may impact the department with you having a criminal and a Police character"
         ]
     },
     {
@@ -26,90 +25,72 @@
         "link": "#forbidden",
         "isSubtitle": false,
         "rules": [
-            "Serial Killer/Mass Murderer is strictly prohibited.",
-            "Lethal Bounty Hunter|Hitman (Non Lethal Bounty Hunters will be allowed) is strictly prohibited.",
-            "Rape RP is strictly prohibited.",
-            "ERP (Erotic Role Play) is strictly prohibited.",
-            "Suicide RP is strictly prohibited.",
-            "Terrorism is strictly prohibited.",
-            "Impersonation of PD or EMS unless it has a valid RP story behind it is strictly prohibited."
+            "Suicide",
+            "Serial Killer / Bounty Hunter / Hitman",
+            "Rape",
+            "Terrorism",
+            "Erotic Roleplay ",
+            "Relationships are allowed. Extreme Sexual talk/actions including /me commands are not"
         ]
     },
     {
-        "title": "Communication",
-        "link": "#communication",
+        "title": "Voice Communication",
+        "link": "#voice-communication",
         "isSubtitle": false,
         "rules": [
-            "All communication must be done in-game, this means no Discord calls.",
-            "You must have a fully working microphone, however, if your character roleplays as a mute or doesn't speak, you must communicate clearly and efficiently using /me. We highly encourage the use of emotes to fit.",
-            "If you make no effort in changing your voice for criminal activities, PD/Others can and will identify you by voice."
+            "All communication between players must happen in-game. Any information obtained via Discord / Streams etc. is a breach of the metagaming rule further down in our rules.",
+            "All players must have a working microphone. You may play a character who is a mute using in-game features such as /me commands, but you will still require a microphone for potential staff encounters. (speak to staff if this is an issue)",
+            "To conceal your identity, you may wear a mask and use a voice changer or put on an accent to try and confuse other players. Police may recognize your voice if you don't attempt to conceal it.",
+            "If you use a voice changer, it must be understandable for other players, and it must be realistic if it is for your character's main voice.",
+            "No music is to be played through your microphone for copyright reasons"
         ]
     },
     {
-        "title": "Phone Apps (Twitter, Yellow Pages)",
-        "link": "#phone_apps",
-        "isSubtitle": false,
-        "rules": []
-    },
-    {
-        "title": "Twitter",
-        "link": "#twitter",
-        "isSubtitle": true,
-        "rules": [
-            "You are not to advertise the sale of illegal items on these platforms.",
-            " You are not to 'bait' PD or other gangs. Any trash talk should be kept to a minimum."
-        ]
-    },
-    {
-        "title": "Yellow Pages",
-        "link": "#yellow_pages",
-        "isSubtitle": true,
-        "rules": [
-            "This is for advertising businesses or selling things only. If it is illegal, it must have a disguise to make it look legit",
-            "Do not use Yellow Pages for asking people to contact you or vice versa"
-        ]
-    },
-    {
-        "title": "Exploiting & Cheating",
-        "link": "#exploiting_cheating",
+        "title": "In-Game Phone Applications",
+        "link": "#in-game-phone-applications",
         "isSubtitle": false,
         "rules": [
-            "Exploiting bugs/jobs to your advantage is not allowed.",
-            "Use of 3rd party programs or tools that give you an advantage is not allowed.",
-            "No graphical mods that remove detail from the environment, beyond which is supported by the game.",
-            "Keeping any items from a glitch, bug, or modder is not allowed.",
-            "Transferring anything from one character to another, this includes creating a new character just to transfer money/items, is not allowed. Transferring items to another player for the sole reasons of leaving the server or deleting your character is also not allowed.",
-            "You cannot have more than one character in the same gang.",
-            "Using unfair game mechanics to your advantage is prohibited.",
-            "Failure to report any bugs to the developers the moment you find them via #support-tickets in Discord can result in punishment."
+            "Much like the General Rules, no Racism, Bullying, or discriminating posts of any kind is tolerated.",
+            "Any applications on the phone which will post something to the community are made at your own risk. Police may be watching. Be sensible! Be smart!",
+            "Players may cause 'beef' on the phone applications. But if you consistently hide and spam the whole community with your beef aimed at another person / group you will be told to settle it face to face or stop posting entirely."
         ]
     },
     {
-        "title": "Out Of Character (OOC)",
-        "link": "#ooc",
+        "title": "Out of Character Talk (OOC)",
+        "link": "#out-of-character-talk",
         "isSubtitle": false,
         "rules": [
-            "Do not break out of character no matter what the reason is. This includes calling people out for poor roleplay, mistakes or rule breaks. What you should do in this situation is call for staff using /report and if no staff responds, use /civid to get the ID and carry on with the situation until you can make a player report using #support-tickets via Discord.",
-            "Do not call people by their OOC names i.e. Steam or Discord names.",
-            "Do not refer to your character or other people's secondary characters as 'cousins'.",
-            "Terms when referring to staff, for example, 'gods', 'government', 'making a prayer' are not allowed. If you must make a report, you are expected to carry on roleplaying out the situation."
+            "Always remain in character. If you hear somebody else speaking out of character, make a /report and a staff member will spectate players near you to find out who it is if you cannot identify them, and they will deal with them.",
+            "Refer to other players with their in character names / nicknames only.",
+            "Do not speak about staff in-game. There is no need to say anything about them or use a codeword such as Government / Gods to try and loophole speaking about staff.",
+            "Do not speak about Discord reports, Staff messages received or tell players you 'made a prayer' in-game. All of these are either confidential or not relevant to be spoken of in character.",
+            "Do not refer to other characters you play as cousins or other family members. Your character has never met them so they do not know they exist."
+        ]
+    },
+    {
+        "title": "Exploiting and Cheating",
+        "link": "#exploiting-and-cheating",
+        "isSubtitle": false,
+        "rules": [
+            "Bugs with any content are to be reported immediately. If you are found to be abusing bugs, your character may be wiped or worse you will receive harsher punishments",
+            "Obtaining items from bugs / modders or anything suspicious are to be reported to staff and they will determine what is to happen with the item(s)",
+            "Dropping anything from one character and picking it up on another character will result in both characters being wiped immediately and further action will be taken.",
+            "Anybody caught doing this and if using a middleman to transfer the items will find all players involved have their entire character wiped.",
+            "Using graphic mod packs which remove detail and props from the game is deemed as exploiting and gaining an unfair advantage. These mod packs are not allowed",
+            "Popular mod packs like NVE, Redux, QuantV etc are fine if used correctly.",
+            "Any form of cheating / modding / using third party software will result in immediate punishments. Typically permanent bans with no appeal unless sufficient evidence is provided."
         ]
     },
     {
         "title": "Relationship RP",
-        "link": "#relationship_rp",
+        "link": "#relationship-rp",
         "isSubtitle": false,
         "rules": [
-            "Any drama that bleeds IC from OOC or vise versa that causes drama/rumor spreading/toxicity, then the person met causing drama/spreading rumors will be punished, staff are not here to baby sit relationships that turn sour both IC and OOC."
-        ]
-    },
-    {
-        "title": "/ME",
-        "link": "#me",
-        "isSubtitle": false,
-        "rules": [
-            "/me should be used to enhance your roleplay for others. If it makes sense in roleplay it must be followed, try to be realistic with your /me.",
-            "/me is not to be used for 'taking' items such as guns or radios. These are things you need to physically take "
+            "As stated in the Forbidden Roleplay Types, we are fine with people roleplaying in Relationships. However, we will not tolerate any drama or toxicity in character or out of character.",
+            "This applies to anybody involved in an in character relationship and the issues are impacting others and their roleplay.",
+            "This also applies to anybody who is in a real-life relationship with somebody else in the community and bringing their issues in character.",
+            "If you are being harassed by somebody that you have relationship issues with, make a report and it will be sorted by staff.",
+            "Staff will step in if things are seen to be getting out of control in any situation."
         ]
     },
     {
@@ -117,9 +98,9 @@
         "link": "#metagaming",
         "isSubtitle": false,
         "rules": [
-            "You must only use the knowledge of what you have learned IN character. You must not use anything you find out or learn from streams/Discord IN character.",
-            "You must make sure if you are in the server you close all streams related to Phoenix RP.",
-            "Anything you learn/find out about from Discord should not be taken IN character."
+            "You may only use information told to your character while you are logged in and playing on the server.",
+            "Anything you find out through a Stream / Discord or any other means is considered metagaming",
+            "When on the server, please close down any Streams of other AtomRP players as this may also end up in situations considered metagaming"
         ]
     },
     {
@@ -127,212 +108,206 @@
         "link": "#initiation",
         "isSubtitle": false,
         "rules": [
-            "Initiation must be done face to face.",
-            "You may protect your friend(s) if you/they were involved in a previous situation, and they are in trouble. But you must counter initiate on the opposing party.",
-            "Initiating someone must have a good roleplay reason behind it.",
-            "You must try and give 3 verbal warnings to initiate.",
-            "Initiation ends after 30 minutes, you must keep the NLR in mind.",
-            "Someone trying to take you hostage is initiation. If they fail you do not need to initiate, same applies for being robbed."
+            "Initiation must be done face to face. Phoning people or social media posts are not initiation.",
+            "Initiation must be roleplayed out properly. Not simply saying 'I'm going to kill you' and instantly attacking them.",
+            "Roleplay that you're angry, be creative, make them know they're in trouble…",
+            "Being taken hostage counts as initiation. You must value your life but if the opportunity comes, you do not need to initiate back.",
+            "You may protect your friends but you must remember to value their life if it is in danger.",
+            "Once a scenario has ended, you have to re-initiate if 30 minutes has elapsed.",
+            "During a business takeover, Initiation is to be 1 clear verbal warning, if the other group is not making any efforts to leave, after 30 seconds, shooting can begin."
         ]
     },
     {
-        "title": "ForceRP",
-        "link": "#forcerp",
+        "title": "VDM & RDM (Vehicular Death Match and Random Death Match)",
+        "link": "#phone_apps",
         "isSubtitle": false,
+        "rules": []
+    },
+    {
+        "title": "VDM",
+        "link": "#vdm",
+        "isSubtitle": true,
         "rules": [
-            "You cannot force initiation, it must be done in the nature of the RP situation.",
-            "You cannot force yourself into someone else's roleplay scenario that you are not a part of (Civ or PD).",
-            "You cannot force someone to go into their house/motel/garage to get anything for you."
+            "You must not use your vehicle as a weapon. Unless your life is in danger and it is safe to do so, (for example you have a gun pointed at you)."
         ]
     },
     {
-        "title": "FailRP",
-        "link": "#failrp",
+        "title": "RDM",
+        "link": "#rdm",
+        "isSubtitle": true,
+        "rules": [
+            "Approaching another player and injuring or killing them with no roleplay reason and no initiation. You must never just attack or kill people for “fun”. If somebody else does it, report it and do not think it is ok to repeat what they did."
+        ]
+    },
+    {
+        "title": "Forced Roleplay",
+        "link": "#forced-roleplay",
         "isSubtitle": false,
         "rules": [
-            "Everything you do in character should be realistic and probable, you must go along with the role play situation you have been dealt. Some examples of FailRP but not limited to:",
-            "Swimming/climbing ladders with handcuffs on.",
-            "Misuse of carrying.",
-            "Cop baiting/Gang Baiting (purposely attracting PD/Gangs attention).",
-            "Tackling/Ragdolling for no reason.",
-            "Leaving any situation before EMS have finished their treatment.",
-            "Removing a patient from the care of EMS before they have finished being treated.",
-            "Soundboards/music without using /boombox or in a car, it must make sense.",
-            "Using the musket against any civilian, no matter the situation.",
-            "Combat storing. Storing items or vehicles while you are in an active RP situation. Example of this but not limited to: Storing items or vehicles while escaping from the police."
+            "You cannot force yourself into someone else's roleplay scenario if it does not concern you.",
+            "For example, don't start crashing into Police Officers during a chase that doesn't involve you.",
+            "You cannot force somebody to go into their house / motel / garage or bank and give something to you unless there is an actual roleplay reason behind it."
         ]
-    },    
+    },
+    {
+        "title": "Fail RP - Most of these are common sense",
+        "link": "#fail-rp",
+        "isSubtitle": false,
+        "rules": [
+            "You cannot climb ladders or swim if you are cuffed or ziptied.",
+            "Do not misuse the carry animation. Whether to harass other players or bug abuse.",
+            "Do not Cop / Gang Bait (attention-seeking of PD & Gangs for no reason)",
+            "Tackling people - Either to harass them or to gain an advantage by spam tackling.",
+            "Walking away from medical help while you are still being treated.",
+            "You may do whatever fits the roleplay with an EMT if your friend is at risk of being arrested. You still have to wait until they finish receiving medical treatment before you can take them.",
+            "Storing items in houses / motels or vehicles in garages while in an ongoing scenario.",
+            "You must be free of the police / other parties for at least two minutes before storing an item in a house / motel or vehicle in a garage."
+        ]
+    },
     {
         "title": "Power Gaming",
-        "link": "#powergaming",
+        "link": "#power-gaming",
         "isSubtitle": false,
         "rules": [
-            "Power Gaming is abusing game/script mechanics to your own advantage or to gain an advantage."
+            "/me commands cannot be used to override game mechanics if it is not physically possible. For example, you cannot do “/me breaks out of cuffs” if you are cuffed but want to get out of them.",
+            "You cannot force players into situations where they have limited or no choice. Situations should remain realistic and fair at all times.",
+            "If you are found to be abusing scripts or game mechanics to gain an advantage, you will be punished.",
+            "You cannot make a call to any business with the intent to take the person to another location as a hostage when they arrive.",
+            "For example, making a mechanic call with the sole purpose of using the mechanic as a hostage."
         ]
     },
     {
-        "title": "Value of Life (NVL) Guidelines",
-        "link": "#valuelife",
+        "title": "NVL (Not Valuing Life)",
+        "link": "#nvl",
         "isSubtitle": false,
         "rules": [
-            "This is for Civ vs Civ, please see 'Police Interaction' for PD vs Civ. These are also examples but not limited to:",
-            "You must value your life at all times.",
-            "When a firearm is pointed at you are to comply at all times (you may try to escape if the opportunity arises, i.e., they stop pointing the gun at you).",
-            "Planning to jump from extremely high areas (accidents happen).",
-            "Taking big jumps at high speed."
+            "Your actions must value your life at all times.",
+            "When someone points a firearm at you or a friend, you must comply at all times. You may only try to escape or point a firearm back if they stop pointing the firearm and it is safe to do so.",
+            "Not valuing your life will prevent further roleplay, it will also impact others roleplay and will result in punishment."
         ]
     },
     {
-        "title": "Value of Life (NVL)",
-        "link": "#valuelife",
-        "isSubtitle": false,
-        "rules": [
-            "This is for Civ vs Civ, please see 'Police Interaction'for PD vs Civ. These are also examples but not limited to:",
-            "You must value your life at all times.",
-            "When a firearm is pointed at you are to comply at all times (you may try to escape if the opportunity arises, i.e., they stop pointing the gun at you).",
-            "Planning to jump from extremely high areas (accidents happen).",
-            "Taking big jumps at high speed."
-        ]
-    },
-    {
-        "title": "Dumping ",
+        "title": "Dumping",
         "link": "#dumping",
         "isSubtitle": false,
         "rules": [
-            "Dumping is the result of incapacitating someone, removing any forms of communication, and 'dumping' their bodies so that they have little to no chance of being rescued. Examples include ocean dumping, wilderness dumping, roof dumping.",
-            "When dumped, players are forced to either 'Press E to respawn' or take their chances waiting for help. If a player chooses to respawn, they will wake up in Pillbox, losing everything in their pockets and MUST follow the NLR (new life rule).",
-            "There has to be a very extreme reason to dump someone and take them out of the role play situation.",
-            "Talking trash or simply hitting someone's car does not warrant dumping someone.",
-            "You must always use dumping as a last resort, if punching/using melees for example haven't worked.",
-            "To avoid dumping, you should always make sure players you down have a phone on them and are untied/uncuffed and not placed in water where their distress won't work.",
-            "Avoid using excessive force over minor things!"
+            "Dumping must be a last resort towards an individual if they've not learned from previous roleplay scenarios.",
+            "You should want to promote good roleplay and give individuals a chance to learn from their mistakes.",
+            "Maybe start by giving them a little beating and progressively get towards the point of needing to dump them?",
+            "If you dump somebody and they come back to you or remember events leading up to their dumping, make a ticket and staff will deal with it.",
+            "Don't come to any assumptions and start causing issues in character.",
+            "To reiterate - Please try to roleplay situations out fully before resorting to dumping. So much good roleplay can be prevented by dumping somebody unnecessarily."
         ]
     },
     {
-        "title": "New Life Rule (NLR)",
-        "link": "#nlr",
+        "title": "New Life Rule",
+        "link": "#new-life-rule",
         "isSubtitle": false,
         "rules": [
-            "NLR is when you have either been dumped or respawned (bled out) at Pillbox. You forget all prior knowledge of the events that led up to you going down.",
-            "You must forget all events that led up to you going down.",
-            "If you do respawn, you are not to return to that situation for 120 minutes (2 hours). You are to sit out and recover, you are still to act as you have forgotten but your friends can tell you what happened and you may get involved again after 2 hours."
-        ]
-    },    
-    {
-        "title": "Injuries and Getting Treatment Guidelines",
-        "link": "#injuries_treatment",
-        "isSubtitle": false,
-        "rules": [
-            "If you're 'down' and laying on the ground you are not dead, you can still roleplay out your injuries for EMS.",
-            "Pronouncing yourself dead will mean you perma your character (delete it). Only EMS can pronounce dead (arranged deaths) or you when killing off a character.",
-            "Do not use /report if no help arrives, it's on you if you go down.",
-            "You can be taken to help by a friend using the carry option, only when you are sure that no EMS are on the way.",
-            "You are expected to roleplay your injuries to EMS as best as you can.",
-            "If no help arrives you have the option to hold E to respawn or 'bleed' out but MUST follow the NLR above.",
-            "If you bleed out and you think it is due to a bug, make a bug report and staff will consider whether it is valid or not. RP is still expected when you are down regardless.",
-            "If you are in an ongoing situation, you are not to respawn to avoid the situation.",
-            "Pulling people from a burning car is considered FailRP. Let the fire service respond or wait till the fire is out."
+            "If you are downed and have to respawn at the hospital, you are to forget everything that occurred moments before your death and the roleplay scenario leading up to your death.",
+            "If you are in a war and respawned at the hospital but are told by a friend / fellow gang member that you are at war, you must sit out for 1 hour before getting involved again while you “recover”."
         ]
     },
     {
         "title": "Combat Reviving",
-        "link": "#combat_reviving",
+        "link": "#combat-reviving",
         "isSubtitle": false,
         "rules": [
-            "This covers if you have been downed or 'killed' by a player but have had help from EMS. (Excludes dirty doc).",
-            "You cannot return to an active situation you were involved in resulting in you going down. That particular situation must end before you can get involved again.",
-            "You must stay away from said situation, this includes staying away from being in phone/radio calls with individuals still involved.",
-            "If revived by EMS on scene you are to remove yourself and head down to Pillbox or somewhere safe.",
-            "This will apply for 60 minutes (1hour) after this timer you may get involved in any separate scenario that occurs after."
+            "If you were revived at the Dirty Doctor, you may rejoin the scenario.",
+            "If you were able to walk unassisted into the hospital for treatment and you were not fully downed, you may rejoin the scenario.",
+            "If you are fully downed and revived on scene / at the hospital by either the Medical team or the hospital script, you must sit out the remainder of the situation until it completely ends.",
+            "People who were involved with the original scenario may attempt to rescue you if the Police are going to arrest you, but this must not exceed the 5 man rule as it is still a part of the original scenario."
         ]
     },
     {
         "title": "Server Events",
-        "link": "#server_events",
+        "link": "#server-events",
         "isSubtitle": false,
         "rules": [
-            "Server events are events run by players meaning they set the rules of the event; however, unless the event organizer states otherwise, the following rules apply at all times:",
-            "No crime of any type or scale.",
-            "No messing around or causing an annoyance."
+            "Any events run by players will be advertised beforehand (also usually in Discord) and rules will be specified in the event details.",
+            "You do not have to go to an event (unless told by staff).",
+            "Anybody going to an event to cause trouble or break event rules will face punishment.",
+            "Server events are meant to be fun for everyone and not ruined by players who don't want to be there or are just there to mess around."
         ]
     },
     {
         "title": "Safe Zones",
-        "link": "#safe_zones",
+        "link": "#safe-zones",
         "isSubtitle": false,
         "rules": [
-            "Players are not to loiter around these areas to avoid RP neither should they 'run' to said areas to avoid the ongoing situation. However, if an ongoing scenario leads you to that place, you can carry on the role play but you are to leave these areas as soon as you can, this excludes any medical centers. These are the current safezones, the safezone counts for the building and all surrounding pavement/roads.",
-            "You are able to commit minor crimes in these zones: Any PD station, Any PD Impound, Any medical centers (these are to be non-combat zones, meaning no shooting/hostages), Marked Car Dealerships, Marked Bennys Repair Shops, DOJ (city hall), Real Estate & Luxury Autos offices, All Clothing and Barber shops (Crime only to be done if they are walking in and out, not while they are in the menus changing), Vangeligems.",
-            "You must not go to any of these places to look for hostages.",
-            "New players will spawn in at the Alta Street Apartments, you should not take them hostage from there.",
-            "The prison is a secure area and as such may not be breached/broken into and you must not 'camp' it waiting for players to be released, this also applies to community service.",
-            "You cannot hand weapons through gaps/fences into prison, smaller, non-lethal items such as cigarettes/phones etc are fine.",
-            "The Casino is considered a server event meaning server event rules apply at all times."
+            "We try to operate with as few safe zones as possible to keep the roleplay flowing.",
+            "Please try to take situations away from populated areas such as hospitals and player-run businesses if possible.",
+            "The Casino is considered a safe zone as it will usually be opened as a mini 'server event'.",
+            "Although we operate with only one recognized safe zone, you must take other players' roleplay into consideration.",
+            "Do not go running into a populated area or building screaming, shouting, ruining players' experiences unless it is for roleplay."
         ]
     },
     {
-        "title": "Player Robbing",
-        "link": "#player_robbing",
+        "title": "Player Robbing / Scamming",
+        "link": "#player-robbing-scamming",
         "isSubtitle": false,
         "rules": [
-            "Robbing another player is only to be done for a genuine RP. Just wanting to steal randomly is not a valid RP reason.",
-            "PD can be robbed for ammo and armor only once downed. This is only if it is a last resort and doesn't excuse shooting PD for the sole purpose of robbing them.",
-            "You cannot rob from people who are on duty from Whitelisted jobs and at their respective job/office.",
-            "You may scam a player for however much but you are not allowed to scam people from both player bought houses and player bought cars. You are also not allowed to sell players local cars i.e. cars that were stolen from AI characters in the game.",
-            "If an emergency vehicle is left unattended you may steal it. This also includes Bennys trucks, Test cars, QA cars and other Whitelisted job vehicles."
+            "You must have a roleplay reason to take items from another player. Stealing items just for monetary gain is not a roleplay reason.",
+            "PD can be robbed for ammo and armor (only once downed). Your motive shouldn't be to shoot them to rob them. You rob them if you need their ammo and armor.",
+            "You cannot steal items from players if they are part of a player-run business and are on duty.",
+            "For example, you cannot steal Repair Kits from a mechanic if they're on duty.",
+            "And you cannot steal Food and Drink from people who work at food establishments.",
+            "You must not scam players of houses, cars, or money* (see below).",
+            "You may roleplay money scams up to the value of $250 from each individual if they are willing to go along with the roleplay or if they legitimately fall for the scam.",
+            "If you find any vehicle unattended, you may steal it (be prepared to suffer the consequences if you steal the wrong person's car 😉.)"
         ]
     },
     {
         "title": "Hostage Taking",
-        "link": "#hostage_taking",
+        "link": "#hostage-taking",
         "isSubtitle": false,
         "rules": [
-            "Taking someone hostage must have a valid roleplay reason behind it i.e. for a robbery or interrogation.",
-            "You cannot take people hostage who are on duty from Whitelisted jobs at their own Office/Workspace, but you may take them if they are elsewhere (Remember Safe Zones) these include: Car Dealers, Mechanics, Real Estate, DOJ.",
-            "You are not to call these services just for the purposes of taking them hostage.",
-            "You may not call the Uber services for the purposes of taking them hostage.",
-            "EMS are not to be taken hostage from anywhere while they are on duty.",
-            "A hostage is used as a bargaining tool with the PD to negotiate demands usually during a robbery.",
-            "Once a crime has started, the hostage must remain in the same place and not be transported to another location.",
-            "You are not to use a second hostage in a separate location.",
-            "Hostage must be visible to PD or presented when asked by PD.",
-            "You are not allowed to harm a complying hostage.",
-            "If the police attempt to breach/save the hostage, you are able to attack the hostage.",
-            "You cannot use friends or pay people to become hostages.",
-            "You cannot use PD as a hostage for a job; however, you may take PD hostage if it's the last resort.",
-            "You cannot use the first responding officer as a hostage as well as unarmed negotiators upon request.",
-            "If you cannot start a job with a hostage, you have up to 15 minutes before you must let them go, this does not apply once the job has started, 15 mins is the max time a hostage in any situation can be held."
+            "Players inside their job building cannot be taken to a different location to be used as a hostage.",
+            "If a player is outside on the sidewalk, you may take them.",
+            "If you are at a job building and suddenly need to use an employee for negotiations, without leaving the job building, this is allowed.",
+            "For example, if you have a warrant and an Officer pulls up at the repair shop, you may use the mechanic as a hostage until your car is repaired and negotiate your freedom with the Officer.",
+            "You are not to sit waiting outside a business to take a hostage and you should not run into these places to avoid being taken.",
+            "If a player is out on a call (for example a Mechanic), you may take them hostage if they are not in a roleplay scenario.",
+            "You cannot, however, make a call to a business (like the Mechanics) to come and assist you then take them hostage when they arrive.",
+            "People in clothing shops and barbers actively changing their appearance are not to be taken hostage.",
+            "Do not sit outside the spawn point for new players. You will more than likely ruin their entire experience of the server if you take them hostage within their first 30 seconds.",
+            "You must not transport a hostage from one location to another. You use them at the primary location and leave them there once negotiated for their safe release.",
+            "You cannot pay people or use friends as hostages.",
+            "You will have 15 minutes starting when you first grab the hostage to starting a job before you must release the hostage.",
+            "This time frame does not apply if you are negotiating with Police already.",
+            "If you are taking a hostage for a non-negotiating scenario such as an interrogation, you get 30 minutes once arriving at the interrogation spot before having to leave them."
         ]
     },
     {
         "title": "Demands and Negotiations",
-        "link": "#demands_negotiations",
-        "isSubtitle": true,
+        "link": "#demands-and-negotiations",
+        "isSubtitle": false,
         "rules": [
-            "Remember when negotiating, an officer has a right to haggle with you for what suits everyone. PD won't always honor your demands.",
-            "Negotiations MUST be face to face.",
-            "You may ask for $5,000 for ALL hostages.",
-            "No unreasonable demands i.e. 'leave or we shoot' or 'all cops drive away'.",
-            "If you have no hostage, officers may breach but you can retaliate."
+            "Negotiations may be haggled from both parties if the roleplay allows it or if one of the parties cannot meet a negotiation due to unforeseen circumstances.",
+            "There is the possibility on rare occasions you may be breached. If so, do what is necessary and remain in character at all times. You can ask for the reason once things have settled down and if absolutely necessary make a police report.",
+            "Remember, negotiations are for the release of a hostage. Not permanent duration. If they are broken, remain in character, deal with things how you feel they should be dealt with and then raise the concerns if necessary with the relevant parties involved.",
+            "Hostages cannot be exchanged for a monetary value. If you took a hostage for a bank and it is on cooldown, then that is on you and your team for not checking."
         ]
     },
     {
-        "title": "Robbery",
+        "title": "Robberies",
         "link": "#robberies",
         "isSubtitle": false,
         "rules": [
-            "Grace period between each robbery is 1 hour.",
-            "Maximum number of members allowed in a single robbery is 4 (Pacific Bank may be 5). This includes all people involved inside and out, i.e., separate getaway drivers."
+            "Grace period between each robbery is 1 hour. This is to prevent people from chain robbing and stopping others from having the chance to do a robbery.",
+            "Maximum numbers of people allowed in a single robbery (including all pickup drivers, lookouts, and people giving radio communications) is 5."
         ]
     },
     {
-        "title": "Prison Transport",
-        "link": "#prison_transports",
+        "title": "Prison Transports",
+        "link": "#prison-transports",
         "isSubtitle": false,
         "rules": [
-            "Police may use up to 8 members.",
-            "Civilians/Gangs are only allowed up to 5 members.",
-            "If you leave the scene you are not to return; this applies for both parties and you are not to have any back up or pickups."
+            "Civilians / Gangs may have 5 members to try and help break the prisoners free.",
+            "Police may use up to 8 Officers.",
+            "New Life Rule and Combat Reviving applies.",
+            "If you are downed and revived by Medical, you are to leave.",
+            "If you are not downed and only injured or have received Medical from Dirty Doctor, you are able to try to help again as long as the person transporting you wasn't downed."
         ]
     },
     {
@@ -340,24 +315,19 @@
         "link": "#vehicles",
         "isSubtitle": false,
         "rules": [
-            "You cannot block doors, access points to gain an advantage.",
-            "You cannot drive vehicles inside buildings (Benny's Mechanics is an exception).",
-            "You are not allowed to steal military vehicles, this includes tanks, jets, etc. All other forms of aircraft/helicopters you are allowed to steal.",
-            "You may use planes for the transportation of goods. Goods can refer to any crime solely involved in the transporting and selling of illegal items.",
-            "Helicopters are only to be used for passive RP only. No crime can be done with these.",
-            "All aircraft must stay 1000ft above the air wherever they may be. Exceptions to this rule are PD, EMS, and Weazel News.",
-            "You are not allowed to use your vehicle as a weapon against another player or their vehicle unless your life is in danger.",
-            "You must comply with PD whilst testing a test vehicle.",
-            "You are not to excessively ram a vehicle; this includes everyone, even PD."
+            "Vehicles must not be used to block doors or drive inside buildings.",
+            "You must not steal Tanks or Jets if you come across them.",
+            "If you find a Helicopter or Airplane, you may steal them but they must not be used in crime, with the exception of transporting bulk goods over long distances.",
+            "If on a test drive, you are still to roleplay with Police if you are being pulled over.",
+            "Test vehicles must not be used for crime unless it is unattended."
         ]
     },
     {
-        "title": "Water Chases",
-        "link": "#water_chases",
+        "title": "Water Pursuits",
+        "link": "#water-pursuits",
         "isSubtitle": false,
         "rules": [
-            "You must not spend longer than 10 minutes when swimming or using boats to try and get away from PD.",
-            "Once 10 minutes are up, you are not to return to water. You either keep running on land or give up."
+            "If you are swimming or in a boat trying to evade Police, you have 10 minutes to get away starting from when you first entered the water. After 10 minutes are up, you are to immediately head to land and continue the pursuit on foot or surrender."
         ]
     },
     {
@@ -365,98 +335,81 @@
         "link": "#safes",
         "isSubtitle": false,
         "rules": [
-            "Do not use safes to block off any access points or doors.",
-            "Safes must be visible at all times.",
-            "PD may raid safes that they find."
+            "Do not use safes to block off doors or access points.",
+            "The entire front door of a safe must be in a realistic location and visible at all times.",
+            "Realistic would be typically found in brickwork or a structure of some type.",
+            "Safes are not immune to being raided. Be careful where you put them and what's in them."
         ]
     },
     {
-        "title": "Gang Related Activity/Organizations",
-        "link": "#gang_activity",
+        "title": "Gang / Organisation Activity",
+        "link": "#gang-organisation-activity",
         "isSubtitle": false,
         "rules": [
-            "You are limited to 5 people for ANY illegal mission-based job excluding gang vs gang.",
-            "If PD use 8 or more bodies then you may draft +1 to help out.",
-            "Gangs/Crews are not to plan or execute any bank jobs at the same time.",
-            "You are not to camp gang houses/businesses or circling their compound area.",
-            "Buildings or properties owned by gangs/crews are subject to being searched/raided if DOJ grants a warrant.",
-            "ALL gangs/crews are limited to 15 people, anybody outside the 15 are not in the crew.",
-            "You must not team up on the streets with any other gang/org/group at any point.",
-            "If you connect to the server after a particular criminal activity has started, you cannot be involved in that activity."
+            "There is a universal limit of 5 for any illegal Gang / Organisation job / mission.",
+            "If there is guaranteed visual confirmation of more than 8 Police responding to a call, you may get 1 additional member from your Gang / Organisation to help.",
+            "Gangs / Organisations may not plan to rob more than 1 bank at the same time.",
+            "You may do other illegal jobs that are not a bank robbery at the same time, however.",
+            "Once the crew who raided the original bank has got away from the Police, more members from the same Gang / Organisation may rob another bank if it is off cooldown. The 1-hour cooldown for individuals involved in the previous bank still applies.",
+            "Any property owned by Gangs / Organisations is liable to be raided by the Police if a warrant is submitted and approved.",
+            "Teaming with another Gang / Organisation is not permitted during shootouts or conflicts.",
+            "The only time it is allowed is when a non-violent crime is happening or a genuine roleplay reason requires multiple gangs to be together.",
+            "They are still not to team together in violent crimes during this roleplay scenario.",
+            "Do not connect to the server just to join an existing shootout.",
+            "Takeovers - Initiation is different for takeovers. Either group can issue 1 warning to leave the area. If the other group doesn't make any attempt to leave within 30 seconds, shooting will commence."
         ]
     },
     {
-        "title": "Takeover",
-        "link": "#takeovers",
+        "title": "Whitelisted Jobs",
+        "link": "#whitelisted-jobs",
         "isSubtitle": false,
         "rules": [
-            "You can have only 5 members turn up to a takeover to defend or attack (subject to change). The person that started the takeover is included in that 5. Strictly no more than 5 at any point, this includes pickups, communications, and substitutes.",
-            "Only members from the group taking or attempting the takeover and the ones that are defending are allowed to engage with each other.",
-            "1 verbal warning must be given (and heard) by either party at the takeover - there is no KOS. Be sure to shout!",
-            "Failure to follow these rules will result in a gang strike."
+            "People who work a whitelisted job are allowed to commit crime as long as they are off duty. Any retrospective action taken by the Police and your Boss should be expected if caught. This could be a simple warning or dismissal depending on the frequency and severity.",
+            "You must not go off duty then proceed to use a work vehicle or something provided from your work to aid a crime. For example, a Car Dealer using a Test vehicle to commit a crime after going off duty.",
+            "Corruption is not permitted within any of the Police Departments or DOJ.",
+            "You are expected to wear work-branded clothing when on duty. If you do not wear it and are approached in public on duty, you should expect to be treated as a normal civilian.",
+            "Your Boss will set up job-specific rules and guidelines, and you are expected to follow them.",
+            "Workers of any job are not permitted to give away free assets worth significant amounts of money. This is mainly aimed towards Car Dealers and Real Estate workers.",
+            "Food business employees may give reasonable amounts of free food to people if they wish.",
+            "Discount can be given if your Boss allows it."
         ]
     },
     {
-        "title": "Shop Takeover (Extortion)",
-        "link": "#shop_takeovers_extortion",
+        "title": "Properties owned by Players / Gangs / Organisations",
+        "link": "#properties-owned-by-players-gangs-organisations",
         "isSubtitle": false,
         "rules": [
-            "Rules will differ with the Extortion Takeovers due to them being in a public place. Per shop basis.",
-            "You can have only 5 members turn up to a shop takeover to defend or attack. The person that started the takeover is included in that 5. Strictly no more than 5 at any point, this includes pickups. No tag in's.",
-            "Only members from the group taking the shop and the ones that are defending it are allowed to engage with each other.",
-            "1 verbal warning must be given (and heard) by either party at the takeover - there is no KOS due to the areas being public. Be sure to shout! If someone refuses to leave, you have the right to use force. Sufficient time must be allowed for them to make a move and leave the store, NOT the area.",
-            "Police can and will respond and are authorized to engage if shooting has started without giving a warning.",
-            "You can NOT restrict people using the public business that is already placed there nor should you intimidate or be a dick - end of the day, you want this to be discreet!",
-            "NO WARS ARE TO BE DECLARED OVER THE TAKING OF ANY SHOPS.",
-            "You are not to specifically target the group that takes a shop and pursue them all day at any location at any time, this will be classed as hunting/war."
-        ]
-    },
-    {
-        "title": "Wars/Gang Fights/Street Fights/Beef/Any Confrontation",
-        "link": "#confrontation_rules",
-        "isSubtitle": false,
-        "rules": [
-            "Any group fight is strictly to be limited to 8 members only.",
-            "If a group of 15 is attacked anywhere, even on their 'turf (Home/Street),' then the 15 can defend the spot they are attacked. However, those that attack are NOT allowed to add more members to even it out; you stick with the 8 you attacked with.",
-            "If you need to give chase then only 8 can do so, this includes but is not limited to in a car/on foot.",
-            "Any 8v8 situation stays an 8v8, No pick ups, tag teaming or cheerleading (following the group to give help and directions)."
-        ]
-    },
-    {
-        "title": "Job Abuse",
-        "link": "#job_abuse",
-        "isSubtitle": false,
-        "rules": [
-            "Whitelisted jobs are not to be used for crime, i.e., Car Dealers using test cars for crime, Weazel News distributing drugs or using company vehicles. You must be off duty if you wish to partake in any crime.",
-            "Abusing Whitelisted job powers, for example, Real Estate giving free houses to their friends or PD giving weapons to Civilians is strictly not allowed.",
-            "PD and DOJ corruption is not permitted.",
-            "If you are provided a uniform as part of your job, you are expected to wear it at all times while you are on duty. If you are approached on the streets and you are not in uniform then you are to be treated as a civilian.",
-            "You may use your private vehicle to drive yourself to your job but when you are on duty, you are expected to use the work vehicles (if they are provided for you)."
-        ]
-    },
-    {
-        "title": "Player/Gang/Crew Properties and Raids",
-        "link": "#properties_raids",
-        "isSubtitle": false,
-        "rules": [
-            "You enter another player's property at your own risk, this includes their garden. You have a right to defend yourself if somebody is on your property/land and you may give them a 30 seconds time frame to leave. This counts as initiation.",
-            "Police can't enter a player's property without permission or a valid warrant from the DOJ.",
-            "During a raid PD have the right to seize any and all assets, cars, houses, and safes if they deem they may be involved.",
-            "You are not allowed to commit a house robbery on your own property or a friend's property."
+            "If you enter the property (including the garden) of another player or group and you are not welcome, they will give you 30 seconds to leave. This is their initiation. Once 30 seconds are up, they can do whatever they think is necessary to get you to leave.",
+            "Police must have a warrant to raid a property from the DOJ. These raids can happen at any time and it is not within the rules of the server to ensure the player or group that owns the property is online at the time of the raid. The warrant will be provided after the raid for legal reasons.",
+            "You must not partake in a house robbery of your own house or a friend's house."
         ]
     },
     {
         "title": "Police Interaction",
-        "link": "#police_interaction",
+        "link": "#police-interaction",
         "isSubtitle": false,
         "rules": [
-            "Pointing a firearm at an officer is considered initiation for them.",
-            "If seen as a threat, officers will give one verbal warning before shooting after which they may open fire.",
-            "Running from an officer if they have a gun at you is not considered NVL.",
-            "Shootouts are allowed however you must plan an escape to avoid dragging the situation on longer than needed.",
-            "If officers see you looting/trying to help other members from a shootout you will be seen as code red and opened fire on.",
-            "If requesting an attorney, you or the officer may refer to the phone app, however, if nobody is on duty you must carry on the scenario without one and use #attorney-desk on discord after the situation has ended.",
-            "The decisions officers make must be realistic, an officer would not approach a street gang of 15 strong on their own, be smart."
+            "Most Police interactions will vary depending on which Officer you deal with and their personal experience or previous encounters. The following are a few guidelines of what to expect from any Officer.",
+            "Pointing a firearm at anyone (including Police) is considered initiation.",
+            "You may receive clear verbal commands; if not followed… expect the worst.",
+            "You may run from an Officer if they are pointing a gun at you. This is not considered NVL as you are trying to escape their custody.",
+            "Try to have a plan to end a scenario with Officers. Try to make sure it isn't a never-ending scenario.",
+            "If you are seen robbing or carrying other players during a shootout, even if it is your own friends, Officers will more than likely not know this, so may open fire on you to prevent you tampering with evidence or kidnapping.",
+            "Attorneys may not always be available. If they are not, continue the roleplay and try to be civil with the Officer. They may cut you some slack if nobody can assist you and you are well behaved.",
+            "As previously mentioned in the Whitelisted Jobs section, corruption within the PD or DOJ is prohibited."
+        ]
+    },
+    {
+        "title": "Permanently killing your character",
+        "link": "#permanently-killing-your-character",
+        "isSubtitle": false,
+        "rules": [
+            "If you decide to kill your character, this cannot be reversed. You cannot escape Medical roleplay by saying “/me perma” and then respawning.",
+            "If this is seen by Staff or reported by a Medical team employee and checked in the logs, Staff will delete your character for you.",
+            "Some Gangs / Organisations will ask you to sign a contract which will have conditions you must meet. Usually, the conditions will be remaining loyal and not betraying them or you may be met with permanent death of your character. If this is something you don't want to do, tell them you no longer wish to join.",
+            "If they provide us with the signed contract, Staff will delete your character for you.",
+            "Any Gangs / Organisations wanting to use contracts must be realistic and not have unfair terms. You cannot simply write “you must never leave” in their contract.",
+            "If you are permanently killing your character, you must not give items to other players before it happens to prevent item loss. Regardless if they keep the items or if they plan to give them to your new character, they will be deleted by staff, and both players liable to punishment."
         ]
     }
 ]
